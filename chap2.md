@@ -1,7 +1,3 @@
-Great! Let's delve into the **Object-Oriented and Functional Concepts in Kotlin**, complete with detailed explanations, examples, and practical tasks to solidify your understanding.
-
----
-
 ## 2. Object-Oriented Programming (OOP) in Kotlin
 
 Object-Oriented Programming (OOP) is a paradigm centered around objects that encapsulate data and behavior. Kotlin, being a modern language, fully supports OOP principles, allowing for clean and maintainable code.
@@ -213,5 +209,3 @@ println(doubleThenSquare(3)) // Outputs: 36
 2. **FP Task**: Given a list of integers, use functional operations to filter out even numbers, square the remaining, and calculate their sum.
 
 3. **Delegation Task**: Implement a class `Printer` that delegates its printing functionality to another class `ConsolePrinter`.
-
-Feel free to attempt these tasks, and let me know when you're ready to proceed to the next topic: **Coroutines & Concurrency**. 
